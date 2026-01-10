@@ -16,3 +16,4 @@ Python
 | 2 | Simple Programs | This lab introduces the basics of programming using **Python** and focuses on simple computational problems such as interest calculation, geometry, temperature conversion, arithmetic operations, time conversion, and currency handling. |
 | 3 | Control Structures: Branching | This lab introduces decision making and branching concepts focussing on the `if-elif-else` and `match-case` statements. |
 | 4 | Control Structures: Looping | This lab introduces looping concepts focussing on the `while`, `while True` (similar to do-while in C++) and `for` statements. |
+| 5 | Lists | This lab introduces the conepts of 1-D and 2-D lists in **Python** |
